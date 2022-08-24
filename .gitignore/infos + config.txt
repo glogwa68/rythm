@@ -1,33 +1,30 @@
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 INSTALLATION
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
-1. Vous devez disposer de nodejs pour dÈmarrer le bot.
+1. Vous devez disposer de nodejs pour d√©marrer le bot.
 > https://nodejs.org/fr/
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 CONFIGURATION
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
-1. Extraire tout les fichiers dans le mÍme dossier.
-2. ExÈcuter le fichier "1. installation-modules".
+1. Extraire tout les fichiers dans le m√™me dossier.
+2. Ex√©cuter le fichier "1. installation-modules".
 3. Configurer le fichier "config.json".
-4. ExÈcuter le fichier "start" pour dÈmarrer le Selfbot.
-5. Pour ‡ afficher toute les commandes il vous suffit de vous mentionner.
+4. Ex√©cuter le fichier "start" pour d√©marrer le Selfbot.
+5. Pour √† afficher toute les commandes il vous suffit de vous mentionner.
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 DEBUG
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 Si le bot ne se lance pas :
-> VÈrifiez de bien avoir tout les fichiers dans le mÍme dossier.
-> Si l'erreur est "Cannot find module "nom du module"" supprimez le fichier "node_modules" et refaites l'Ètape 2.
-> VÈrifiez de ne pas avoir un fichier.
-> Si une erreur pÈrsiste contactez moi.
+> V√©rifiez de bien avoir tout les fichiers dans le m√™me dossier.
+> Si l'erreur est "Cannot find module "nom du module"" supprimez le fichier "node_modules" et refaites l'√©tape 2.
+> V√©rifiez de ne pas avoir un fichier.
+> Si une erreur p√©rsiste contactez moi.
 > Si vous changez votre mot de passe, votre token changera aussi, me contacter si c'est le cas.
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 CUSTOMISATION
 =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
 Vous pouvez customiser le selfbot comme vous le souhaiter en changeant le style, prefix, ext...
 1. Pour modifier le help menu il vous suffit de faire la commande "helpstyle".
-> Il y a 4 menu diffÈrents et vous pouvez les sÈlectionner avec 1, 2, 3 et 4.
+> Il y a 4 menu diff√©rents et vous pouvez les s√©lectionner avec 1, 2, 3 et 4.
 > Exemple : helpstyle 3 ( si votre prefix est "!" la commande sera "!helpstyle 3".
-2. Si vous dÈsirez plus d'aide pour configurer le selfbot contactez moi.
-=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=
-> Mon psoeudo : ChildsPR3D4T0R#4525
-> Serveur : https://discord.gg/TaQpMXJ
+2. Si vous d√©sirez plus d'aide pour configurer le selfbot contactez moi.
